@@ -1,0 +1,7 @@
+Walkthrough video URL: TO_BE_RECORDED
+
+Record a 3-5 minute walkthrough covering:
+1. Create, rename, format, save, and reopen a document.
+2. Import a Markdown or text file.
+3. Share with Bob as an editor and switch to Charlie as a viewer.
+4. Version history, comments, export, and the intentional local-first scope.
