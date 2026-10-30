@@ -1,0 +1,6 @@
+{
+  "name": "CollabDoc - Collaborative Document Studio",
+  "description": "Lightweight collaborative document editor featuring Tiptap rich-text formatting, markdown/.txt import, multi-user role sharing permissions, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
